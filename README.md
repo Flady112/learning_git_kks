@@ -22,7 +22,7 @@ ___
 ## 3. Частина GitHub
 
 Створивши обліковий запис в GitHub, ми має змогу створити свій репозиторій, де створимо своє портфоліо.
-- Посилання на мій репозиторій: [https://github.com/Flady112/learning_git_kks].
-- Посилання на репозиторій викладача: [https://github.com/PorokhovnichenkoIryna/learning_git].
+- Посилання на мій репозиторій: [https://github.com/Flady112/learning_git_kks];
+- Посилання на репозиторій викладача: [https://github.com/PorokhovnichenkoIryna/learning_git];
 - Коли портфоліо буде створено, то ось що ми отримаємо в результаті: [https://flady112.github.io/learning_git_kks/].
 ___
